@@ -6,3 +6,4 @@ As of now, this repository contains my Java solutions to four simple problems
 - Implement a **hash-table** using a **linkedlist**
 - Implement a **queue** using two **stacks**
 - Implement two **stacks** using one **array**
+- Implement three **stacks** using one **array**
